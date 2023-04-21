@@ -1,7 +1,2 @@
-echo "# DocumentosCheckpoint" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AnaKarolyne/DocumentosCheckpoint.git
-git push -u origin main
+d (peso 2,5) Ao terminar o seu documento de prova, gere um PDF e suba em um repositório GITHUB público, seu, numa Branch develop, dentro de uma pasta chamada “DocumentosCheckpoint”. De preferencia, faça as operações com o GIT Flow.
+
